@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF5c2t2amhxbjJsYzBnbzNlaHcxYWl3ZTI4MTBpc2tqbXY5ZGo5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="250"/>
   <div id="badges">
@@ -7,4 +6,33 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Sep26e&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
+
+---
+### :man_technologist: About Me :
+A passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> located in California 🏜️
+- :telescope: Currently improving my coding skills by Leetcode/ side proojects.
+
+- :zap: In my free time, I go to gym.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sepehr-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sepehrbehmaneshfard)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sep26&theme=dark)](https://git.io/streak-stats)
