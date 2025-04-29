@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Sep26e&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
+    Hey friend
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -15,9 +15,9 @@
 ---
 ### :man_technologist: About Me :
 A passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> located in California 🏜️
-- :telescope: Currently improving my coding skills by Leetcode/side proojects => ChoreMate.
+- :telescope: Currently improving my coding skills by Leetcode/side proojects => (redacted) 🤫 .
 
-- :zap: In my free time, I go to gym.
+- :zap: In my free time, I go to gym, binge wash a season of a show or something.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sepehr-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sepehrbehmaneshfard)
 
