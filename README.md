@@ -17,7 +17,7 @@
 A passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> located in California 🏜️
 - :telescope: Currently improving my coding skills by Leetcode/side proojects => (redacted) 🤫 .
 
-- :zap: In my free time, I go to gym, binge wash a season of a show or something.
+- :zap: In my free time, I go to gym, binge watch a season of a show or something.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sepehr-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sepehrbehmaneshfard)
 
