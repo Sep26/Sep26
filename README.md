@@ -15,7 +15,7 @@
 ---
 ### :man_technologist: About Me :
 A passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> located in California 🏜️
-- :telescope: Currently improving my coding skills by Leetcode/side proojects => (redacted) 🤫 .
+- :telescope: Working on a nightlife app...
 
 - :zap: In my free time, I go to gym, binge watch a season of a show or something.
 
